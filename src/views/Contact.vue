@@ -7,10 +7,6 @@
 
     <ul>
       <li>
-        <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="https://madhatter18.github.io/gamedev-portfolio-jp/" target="_blank">https://madhatter18.github.io/gamedev-portfolio-jp/</a>
-      </li>
-      <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
         <a href="mailto:itmamdipro@gmail.com" target="_blank">itmamdipro@gmail.com</a>
       </li>
